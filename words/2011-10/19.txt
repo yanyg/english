@@ -1,0 +1,128 @@
+ubiquitous	[ju:ˈbɪkwɪtəs]
+	adj. 普遍存在的，十分普遍的
+
+unidirectional	[ˌju:nidiˈrekʃənəl]
+	adj. 单向的，单向性的
+
+bidirectional	[ˌbaidiˈrekʃənəl]
+	adj. 双向的
+
+scanner
+	n. 扫描器
+
+diode	[ˈdaiəud]
+	n. 二极管
+
+light-emitting diode -- LED
+	发光二极管
+
+decade	[ˈdekeid，dɪˈkeɪd]
+	n. 十年，十年期（尤指一个年代）
+
+intrigue	[inˈtri:ɡ]
+	vi. 搞阴谋诡计
+	vt. 激起...的好奇心
+	n. 密谋策划；阴谋；神秘气氛，引人入胜的复杂情节
+
+intrigue with
+	与...私通
+
+philosophy	[fiˈlɔsəfi，fəˈlɒsəfi]
+	n. 哲学
+
+audience	[ˈɔ:djəns，ˈɔːdiəns]
+	n. 观众；读者
+
+emerge	[iˈmə:dʒ]
+	vi. 显现，出现；形成
+
+apparent	[əˈpærənt]
+	adj. 显然的，明白的
+
+perceive	[pəˈsi:v]
+	vt. 感觉，察觉；理解为
+	vi. 感知，察觉；认识到，意识到
+
+daunting
+	adj. 使人畏缩的
+
+commit to
+	把...托付给
+	对...作出承诺
+
+sustained	[səˈsteɪnd]
+	adj. 持久的，持续的
+
+lending
+	n. 出借，出租，出借（租）物
+
+sincerely	[sɪnˈsɪəlɪ]
+	adj. 真心实意地，真诚地，诚实地
+
+hassle	[ˈhæsəl]
+	n. 困难的事情，麻烦的事情；争论，麻烦
+	vt. 不断麻烦
+
+inside out
+	adv. 彻底地，从内到外地
+
+demonstrate	[ˈdemənstreit
+	vi. 示威游行；示范，展示
+	vt. 说明，演示；证明
+
+argue	[ˈɑ:ɡju:]
+	vt. & vi. 争吵，辩论
+	vt. 劝说，证明
+	vi. 论证，说理
+
+constrain	[kənˈstrein]
+	vt. 强迫，限制，约束
+
+empower	[emˈpaʊə]
+	vt. 授权，准许；增加（某人的）自主权
+
+audit	[ˈɔ:dit]
+	vt. 审计，查帐
+	n. 审计，审核
+
+utilize	[ˈju:tilaiz]
+	vt. 利用，使用
+
+statistics	[stəˈtistiks]
+	n. 一项统计数据；统计资料；统计学
+
+substantial	[səbˈstænʃəl]
+	adj. 重要的；坚固的
+	n. 物质；实质性的东西
+
+compliant	[kəmˈplaɪənt]
+	adj. 遵从的，依从的；相符的，一致的
+
+rationale	[ˌræʃəˈnæl]
+	n. 基本原理，基本原因
+
+replicate	[ˈreplɪˌkeɪt]
+	vt. 复制，重复；再造，再生；自我复制
+
+forum	[ˈfɔ:rəm]
+	n. 集会的公共场所；论坛；法庭
+
+deviation	[ˌdi:vi:ˈeɪʃən，ˌdiːviˈeɪʃn]
+	n. 背离，违背；偏差
+
+typography	[taiˈpɔɡrəfi]
+	n. 印刷样式；凸版印刷术
+
+emphasis	[ˈemfəsis]
+	n. 强调，着重；强烈，力量
+
+errata	[eˈrɑ:tə]
+	n. 勘误表
+
+typo	[ˈtaipəu]
+	n. 打印错误；打字（或排印）文稿的小错误
+
+Frequently Asked Questions	==	FAQ
+	常见问题
+
+

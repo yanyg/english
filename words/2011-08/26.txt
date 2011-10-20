@@ -1,0 +1,121 @@
+glue
+	[ɡlu:]
+	vt. 用胶水将物体粘合，粘牢，粘贴
+	n.  胶，胶水
+
+constituent
+	[kənˈstitjuənt]
+	n. 选民；成分，构成部分，要素
+	adj. 构成的，组成的
+
+bear
+	[bɛə]
+	vt. 具有，怀有；需求
+	vt. & vi. 承担；忍受，容忍
+	n. 熊，笨拙的人
+
+operational
+	[ˌɔpəˈreiʃənəl]
+	adj. 即可使用的；操作的，经营的；军事行动的
+
+resemblance
+	[riˈzembləns]
+	n. 形似，近似
+
+elevator
+	[ˈeliveitə]
+	n. 电梯，升降机；谷仓，粮仓
+
+I/O schedulers bear an operational resemblance to elevators--they schedule requests in a single direction until the last requester in the line is serviced.
+I/O调度器承担类似于电梯的操作－他们在一个单方向上调度请求，直到这个方向上的最后一个请求得到服务
+
+inadequate
+	[ɪnˈædɪkwɪt]
+	adj. 不充足的，不适当的；不足胜任的，信心不足的
+	adv. 不充足地，不适当地，不足胜任地
+
+deadline
+	最后期限
+
+anticipatory
+	[ænˈtɪsɪpeɪtɵrɪ]
+	adj. 期待着的，提早发生的
+
+noop = no operation
+	空操作
+
+expiration
+	[ˌekspɪˈreɪʃɵn]
+	n. 满期，届满，告终；呼气，吐气；死亡
+
+expiration times
+	事件终了；时间耗尽
+
+burst
+	[bə:st，bɜːst]
+	vt. & vi. 爆炸，爆裂；突然发生，猛冲
+	n. 爆裂，爆发，突发；突发，猝发，迸发；爆裂，裂口；一阵短促的射击
+
+a burst of
+	一个突发
+
+starve
+	[stɑ:v]
+	vt. & vi. （使）挨饿，饥饿；缺乏，急需；饿死
+
+semiconductor
+	[ˌsemikənˈdʌktə]
+	n. <物>半导体
+
+ideal
+	[aiˈdiəl]
+	adj. 理想的，完美的；想象的，空想的
+	n. 理想，看似完美的思想（或标准）；理想的事物（人）
+	adj. 唯心主义的，空想家的
+
+resemble
+	[riˈzembl]
+	vt. 看起来像，显得像；像
+	vt. & vi. 效仿
+
+illusion
+	[iˈlju:ʒən]
+	n. 错觉，幻觉，错误观念；假象；幻境
+
+undergo
+	vt. 经历，经受（变化、不快的事情等）
+
+extensive
+	[iksˈtensiv]
+	adj. 广阔的，广大的，大量的；全面的，彻底的；外延的，扩大的；冗长的
+
+fictitious
+	[fɪkˈtɪʃəs]
+	adj. 假的；虚构的；编造的；假设的；假装的
+
+leverage
+	[ˈli:vəridʒ]
+	n. 杠杆力；力量，影响
+	vt. 促使...改变
+	vt. & vi. 杠杆式投机；举债经营；利用
+
+elementary
+	[ˌeliˈmentəri]
+	adj. 
+	基本的，初级的，小学的；简单的，容易的
+
+albeit
+	[ɔ:lˈbi:ɪt, æl-]
+	conj. 尽管，即使
+
+conj = conjunction 连词
+
+sole
+	[səul]
+	adj. 单独的，唯一的，仅有的；专有的，独占的
+	n. 脚掌，脚底（板）；鞋底，袜底；有...底的soled
+	vt. 给鞋换底
+
+elicit
+	[iˈlisit]
+	vt. 引出，探出

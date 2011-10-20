@@ -1,0 +1,124 @@
+manifestation	[ˌmænəfeˈsteɪʃən]
+	n. 显示，表明，表示；（幽灵的）显现，显灵
+	e.g. Sysfs is the user-space manifestation of the kernel's structured device model.
+
+apparent	[əˈpærənt]
+	adj. 显然的，明白的，清晰可见的；表面上的，貌似真实的
+
+encapsulation	[inˌkæpsjuˈleiʃən]
+	n. 包装，封装；包裹
+
+interwind	[ˌintə(:)ˈwaind]
+	v. 互卷，互相盘绕
+
+instantiate	[inˈstænʃieit]
+	vt. 例示
+
+peel off
+	v. 去皮，离群；剥离
+
+ripple	[ˈripl]
+	vt. & vi. 泛起涟漪
+	vt. 在...上形成波痕
+	n. 涟漪；波痕；逐渐扩散的感觉
+
+transition	[trænˈziʃən，trænˈzɪʃn]
+	n. 过渡；转变；变迁；变革
+
+consist of
+	由...组成/构成
+	e.g. The I2C layer consists of a core infrastructure, device drivers for bus adapter, and drivers for client devices.
+
+infrastructure	[ˈinfrəˌstrʌktʃə，ˈɪnfrəstrʌktʃə(r)]
+	n. 基础设施；行政机构；永久性军事基地；基础，下面结构
+
+emulate	[ˈemjuleit]
+	vt. 与...竞争，努力赶上；计算机程序等仿真；模仿
+
+microcode	[ˈmaikrəukəud]
+	n. 微代码；微码
+	The microcode gets executed by an on-card microcontroller.
+
+untenable	[ʌnˈtenəbəl]
+	adj. 站不住脚的，不堪一击的；难以防守的
+
+homogeneous	[ˌhɔməˈdʒi:njəs]
+	adj. 同性质的，同类的；由相同的（同类型的）事物（或人）组成的
+	e.g. 
+
+beacon	[ˈbi:kən]
+	n. 烽火台； 灯塔；信号站；指路人
+	vt. 明亮，指引；为...设置信标
+	vi. 像灯塔般照耀
+
+surf	[sə:f]
+	n. 拍岸浪花
+	v. 划浪；做冲浪运动；
+
+disparate	[ˈdɪspərɪt, dɪˈspærɪt，ˈdɪspərət]
+	adj. （两种或两种以上的事物）迥然不同的，无法比较的；由不同的人（或事物）组成的
+
+unification	[ˌju:nɪfɪˈkeɪʃɵn]
+	n. 统一；联合；一致
+
+augment	[ɔ:ɡˈment]
+	vt. 增加，提高，扩大
+
+consolidate	[kənˈsɔlideit]
+	vt. & vi. （使）巩固，（使）加强；（使）合并；（使）形成一体
+	e.g. The Linux Kernel Driver Model is a unification of all the disparate driver models
+	that were previously used in the kernel. it is intended to augment the bus-specific
+	drivers for bridiges and devices by consolidating a set of data and operation into globally
+	accessible data structures.
+
+uniformity	[ˌju:nɪˈfɔ:mətɪ]
+	n. 一致，单调；无差异，无变化；相同，统一
+	e.g. There wasn't any uniformity across the different bus types.
+
+uniform
+	adj. 一致的，统一的
+	n. 制服，校服
+
+reflect	[riˈflekt]
+	vt. & vi. 反射（光、热等）；考虑
+	vt. 表达，反映；显示，表明
+	vi. 映出；产生...影响
+
+goal	[ɡəul]
+	n. 球门；射门；努力的对象，目标；得分
+
+seamless	[ˈsi:mlis]
+	adj. （两部分之间）无缝隙的，无空隙的，不停顿的；无（接）缝的
+
+namely	[ˈneimli]
+	adv. 即，也就是
+	e.g. The common device and bridge interfaces reflects the goal of the modern computer: namely
+	the ability to do seamless device "plug and play", power management, and hot plug.
+
+dictate	[dikˈteit]
+	vt. & vi. 大声讲或读，口授；支配，摆布，决定；任意指使某人，向某人发号施令
+	vt. 指示，指定，指令
+	n. 命令，规定，要求
+
+paradigm	[ˈpærəˌdaɪm, -ˌdɪm]
+	n. 词形变化表；范例；样式，模范
+	e.g. In particular, the model dictated by Intel and Microsoft (namely ACPI) ensures that almost every
+	device on almost any bus on an x86-compatible system can work within this paradigm. Of course, not every
+	bus is able to support all such operations, although most buses suppot a most of those operations.
+
+compelling	[kəmˈpelɪŋ]
+	adj. 引人入胜的；非常强烈的，不可抗拒的；令人信服的，有说服力的
+
+virtue	[ˈvə:tju:，ˈvɜːtʃuː]
+	n. 美德，优秀品质；优点，长出，用途；品行道德和伦理原则；贞操，贞洁；效能，仿效
+
+hierarchical	[ˌhaiəˈrɑ:kikəl]
+	adj. 分级的
+
+provision	[prəˈviʒən]
+	n. 提供，供给；供应
+	vt. & vi. 为...提供所需物品（尤指食物）
+
+tunable	[ˈtju:nəbl]
+	adj. 可调的
+
