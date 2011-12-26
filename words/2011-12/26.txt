@@ -1,0 +1,44 @@
+competent	[ˈkɔmpitənt]
+	adj. 有能力的，能胜任的，称职的；有决定权的
+
+conventional	[kənˈvenʃənl]
+	adj. 传统的，依照惯例的；大会的，会议的
+
+convey	[kənˈvei]
+	vt. 运输，传送，输送；表达，转达，估计；转让
+
+They are written in a pseudocode which, although not directly translatable to any conventional programming language, conveys the structure of the algorithm clearly enough that a competent programmer can implement it in the language of his choice.
+
+asymptotic	[ˌæsimpˈtɔtik]
+	adj. 渐近线的，渐近的
+
+delve	[delv]
+	vi. 深入研究，钻研
+
+recurrence	[riˈkʌrəns]
+	n. 复发，反复，重现
+
+devote	[diˈvəut]
+	vt. 献身，致力，专心
+
+devote to
+	致力于...
+	把...专用于，完全用于（某物或做某事）
+
+harm	[hɑ:m]
+	n. 损害，危害，伤害
+	vt. （使）受到损害，伤害
+
+probabilistic	[ˌprɔbəbiˈlistik]
+	adj. 盖然论的，或然说的
+
+probabilistic analysis
+	概论分析
+
+inherent	[inˈhiərənt]
+	adj. 固有的，内在的
+
+probability distribution
+	概率分布
+
+
